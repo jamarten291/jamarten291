@@ -21,6 +21,10 @@ Feel free to check my repositories and/or contact me if you want to exchange som
   <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamarten291&size_weight=0.5&count_weight=0.5&layout=pie&theme=radical" />
 </a>
 
+
+## Social media
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-mart%C3%ADnez-a5945a2b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
 <!--
 **jamarten291/jamarten291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
