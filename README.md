@@ -2,7 +2,9 @@
 
 Welcome to my profile, I'm a student that really likes programming. I am currently learning mostly Java.
 
-Feel free to check my repositories and/or contact me if you want to exchange some ideas or create a project. 
+Feel free to check my repositories and/or contact me if you want to exchange some ideas or create a project.
+
+My email -> jamarten291@gmail.com
 
 
 ## Currenly learning...
