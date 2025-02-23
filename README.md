@@ -12,8 +12,8 @@ Feel free to check my repositories and/or contact me if you want to exchange som
 
 
 ## My best repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jamarten291&repo=javascript-stuff&theme=tokyonight)](https://github.com/jamarten/javascript-stuff)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jamarten291&repo=1-dam-java-projects&theme=tokyonight)](https://github.com/jamarten/1-dam-java-projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jamarten291&repo=javascript-stuff&theme=tokyonight)](https://github.com/jamarten291/javascript-stuff)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jamarten291&repo=1-dam-java-projects&theme=tokyonight)](https://github.com/jamarten291/1-dam-java-projects)
 
 
 ## My stats...
