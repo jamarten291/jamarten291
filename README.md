@@ -2,7 +2,10 @@
 
 Welcome to my profile, I'm a student that really likes programming. I am currently learning mostly Java.
 
-Feel free to check my repositories and/or contact me if you want to exchange some ideas or create a project.
+Feel free to check my repositories and/or contact me if you want to exchange some ideas or create a project. 
+
+Here's my email:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:minecraftmola222137@gmail.com)
 
 
 ## Currenly learning...
