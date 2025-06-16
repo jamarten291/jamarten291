@@ -21,22 +21,15 @@ Feel free to check my repositories and/or contact me if you want to exchange som
 
 
 ## My stats...
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamarten291&size_weight=0.5&count_weight=0.5&layout=pie&theme=radical" />
-</a>
-
-
-<!--
-**jamarten291/jamarten291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="
+      width: 400px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    ">
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamarten291&size_weight=0.5&count_weight=0.5&layout=pie&theme=radical" />
+    <img width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=jamarten291&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&show=reviews,prs_merged,prs_merged_percentage&theme=radical" />
+    <br>
+  </a>
+</div>
