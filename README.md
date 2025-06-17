@@ -16,7 +16,7 @@ Feel free to check my repositories and/or contact me if you want to exchange som
 
 
 ## My best repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jamarten291&repo=Konata-Minecraft-Assistant&theme=tokyonight)](https://github.com/jamarten291/javascript-stuff)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jamarten291&repo=Konata-Minecraft-Assistant&theme=tokyonight)](https://github.com/jamarten291/Konata-Minecraft-Assistant)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jamarten291&repo=1-dam-java-projects&theme=tokyonight)](https://github.com/jamarten291/1-dam-java-projects)
 
 
