@@ -2,11 +2,7 @@
 
 Welcome to my profile, I'm a student that really likes programming. I am currently learning mostly Java.
 
-Feel free to check my repositories and/or contact me if you want to exchange some ideas or create a project.
-
-![Gmail](https://img.icons8.com/ios-filled/20/D14836/gmail-new.png) -> jamarten291@gmail.com
-
-![Discord](https://img.icons8.com/ios-filled/20/5865F2/discord-logo.png) -> jamarten_
+Feel free to check my repositories.
 
 
 ## Currenly learning...
