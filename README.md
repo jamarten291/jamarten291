@@ -12,7 +12,7 @@ Feel free to check my repositories.
 
 
 ## My best repositories
-[![Readme Card](https://github-stats.tonimatas.dev/api/pin/?username=jamarten291&repo=Konata-Minecraft-Assistant&theme=tokyonight)](https://github.com/jamarten291/Konata-Minecraft-Assistant)
+[![Readme Card](https://github-stats.tonimatas.dev/api/pin/?username=jamarten291&repo=SillyBot-Minecraft-Assistant&theme=tokyonight)](https://github.com/jamarten291/Konata-Minecraft-Assistant)
 [![Readme Card](https://github-stats.tonimatas.dev/api/pin/?username=jamarten291&repo=1-dam-java-projects&theme=tokyonight)](https://github.com/jamarten291/1-dam-java-projects)
 
 
