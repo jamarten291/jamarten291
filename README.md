@@ -2,7 +2,7 @@
 
 I'm a programmer with experience on mobile and desktop application development.
 
-Here's a list of what technologies I've worked with:
+Here's a list of the technologies I've worked with:
 - Flutter
 - .NET
 - Angular
